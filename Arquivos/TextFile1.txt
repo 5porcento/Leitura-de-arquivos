@@ -1,0 +1,3 @@
+﻿Linha 1 do arquivo
+Linha 2 do arquivo
+Linha 3 do arquivo
